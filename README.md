@@ -35,6 +35,11 @@ Click below to download the APK:
 
 [Download ShaleNammaPride APK](https://github.com/RoshiniMV/ShaleNammaPride/raw/master/app-debug.apk)
 
+## App Screenshots
+
+View all screenshots here:
+[https://github.com/RoshiniMV/ShaleNammaPride/tree/master/screenshots]
+
 ## Technologies Used
 
 ### Frontend
